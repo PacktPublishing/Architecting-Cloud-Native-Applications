@@ -1,5 +1,5 @@
-# Architecting-Cloud-Native-Applications
-Design high-performing and cost-effective applications for the cloud
+# Architecting Cloud Native Applications
+
 
 Cloud computing has proven to be the most revolutionary IT development since virtualization. Cloud native architectures give you the benefit of more flexibility over legacy systems.
 
@@ -14,3 +14,7 @@ By the end of this Learning Path, you’ll have learned the techniques to adopt 
 * Explore the aspects of migration, when and why to use it
 * Apply modern delivery and testing methods to continuously deliver production code
 * Enable massive scaling by turning your database inside out
+
+## Related GitHub repositories
+Cloud Native Development Patterns and Best Practices- https://github.com/PacktPublishing/Cloud-Native-Development-Patterns-and-Best-Practices
+Cloud Native Architectures- https://github.com/PacktPublishing/Cloud-Native-Architectures
