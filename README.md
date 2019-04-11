@@ -17,4 +17,5 @@ By the end of this Learning Path, you’ll have learned the techniques to adopt 
 
 ## Related GitHub repositories
 Cloud Native Development Patterns and Best Practices- https://github.com/PacktPublishing/Cloud-Native-Development-Patterns-and-Best-Practices
+
 Cloud Native Architectures- https://github.com/PacktPublishing/Cloud-Native-Architectures
